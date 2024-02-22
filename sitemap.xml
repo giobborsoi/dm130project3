@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://www.exampledomain.com /partnership.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2024-02-21</lastmod>
+	</url>
+	<url>
+		<loc>http://www.exampledomain.com /home.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2024-02-21</lastmod>
+	</url>
+	<url>
+		<loc>http://www.exampledomain.com /gallery.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2024-02-21</lastmod>
+	</url>
+	<url>
+		<loc>http://www.exampledomain.com /faqs.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2024-02-21</lastmod>
+	</url>
+	<url>
+		<loc>http://www.exampledomain.com /contact.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2024-02-21</lastmod>
+	</url>
+	<url>
+		<loc>http://www.exampledomain.com /about.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2024-02-21</lastmod>
+	</url>
+</urlset>
